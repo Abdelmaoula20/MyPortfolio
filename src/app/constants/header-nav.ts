@@ -32,12 +32,7 @@ export const navItems: NavItem[] = [
     className: 'link',
     activeClassName: 'active'
   },
-  {
-    title: 'Portfolio',
-    link: 'portfolio',
-    className: 'link',
-    activeClassName: 'active'
-  },
+
   {
     title: 'Contact Me',
     link: 'contacts',
